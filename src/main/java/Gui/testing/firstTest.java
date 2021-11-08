@@ -9,13 +9,15 @@ import com.shaft.driver.DriverFactory;
 import com.shaft.gui.browser.BrowserActions;
 
 import Gui.Pages.FirstTestPage;
+import io.qameta.allure.Description;
 
 
 public class firstTest {
 	private WebDriver driver;
 	private FirstTestPage first;
 
-	
+@Description("Given:Open Browser and Search for \"selenium webdriver\" Then Check results")
+
   @Test
   public void FirstTestSceniro() {
 	  

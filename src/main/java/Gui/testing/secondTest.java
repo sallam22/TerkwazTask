@@ -10,12 +10,14 @@ import com.shaft.gui.browser.BrowserActions;
 
 
 import Gui.Pages.SecondTestPage;
+import io.qameta.allure.Description;
 
 public class secondTest {
 	private WebDriver driver;
 	private SecondTestPage  second;
 
-	
+	@Description("Given:Open Browser and Click on \"File Upload\"  and Upload any small image file Then Check results")
+
   @Test
   public void SecondTestSceniro() {
 	  

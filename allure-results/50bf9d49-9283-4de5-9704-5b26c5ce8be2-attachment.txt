@@ -1,0 +1,13 @@
+
+################################################################################################################################################
+Starting Execution:	[1 out of 1] test cases in the current suite
+Test Method:		[Gui.testing.firstTest.FirstTestSceniro]
+################################################################################################################################################
+[ReportManager] File Action [CreateFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20211108-150921", Target File: "\1636376976265_FirstTestSceniro.gif"]. @08-11-2021 15:09:36.0338 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [selenium webdriver]. @08-11-2021 15:09:36.0619 PM
+[ReportManager] Element Action [KeyPress] successfully performed. With the following test data [ENTER]. @08-11-2021 15:09:40.0942 PM
+[ReportManager] Element Action [GetText] successfully performed. With the following test data [What is Selenium WebDriver? Selenium WebDriver is a web framework that permits you to execute cross-browser tests. This tool is used for automating web-based application testing to verify that it performs expectedly. Selenium WebDriver allows you to choose a programming language to create test scripts.]. @08-11-2021 15:09:41.0313 PM
+[ReportManager] Loaded Shared OpenCV @08-11-2021 15:09:47.0449 PM
+[ReportManager] Assertion [ValidateElementAttribute] PASSED. Expected [Value Should not be 'By.xpath: //body/div[@id='main']/div[@id='cnt']/div[@id='rcnt']/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/span[1]/span[1]' for the 'text' attribute, element locator 'By.xpath: //body/div[@id='main']/div[@id='cnt']/div[@id='rcnt']/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/span[1]/span[1]'] and Actual [What is Selenium WebDriver? Selenium WebDriver is a web framework that permits you to execute cross-browser tests. This tool is used for automating web-based application testing to verify that it performs expectedly. Selenium WebDriver allows you to choose a programming language to create test scripts.]. Comparison Type [EQUALS]. Validation Type [NEGATIVE]. @08-11-2021 15:09:47.0794 PM
+[ReportManager] Successfully created attachment [Screenshot - 1636376981490_FirstTestSceniro_ValidateElementAttribute_passed] @08-11-2021 15:09:47.0820 PM
+[ReportManager] Successfully created attachment [Animated Gif - FirstTestSceniro] @08-11-2021 15:09:47.0827 PM

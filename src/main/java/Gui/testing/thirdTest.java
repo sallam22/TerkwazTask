@@ -10,12 +10,14 @@ import com.shaft.gui.browser.BrowserActions;
 
 
 import Gui.Pages.ThirdTestPage;
+import io.qameta.allure.Description;
 
 public class thirdTest {
 	private WebDriver driver;
 	private ThirdTestPage  third;
 
-	
+@Description("Given:Open Browser and Click on \"Dynamic Loading\"  and Click on \"Example 2\" and click start Then Check results")
+
   @Test
   public void ThirdTestSceniro() {
 	  
